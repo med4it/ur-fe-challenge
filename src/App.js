@@ -1,6 +1,14 @@
-import React from 'react';
+import React from "react";
+import { Container } from "react-bootstrap";
+
+import Repositories from "./pages/Repositories";
+
 function App() {
-  return <p>App</p>;
+  return (
+    <Container>
+      <Repositories />
+    </Container>
+  );
 }
 
 export default App;
