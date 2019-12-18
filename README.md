@@ -1,6 +1,6 @@
 # ur-fe-challenge
 
-A ReactJS solution for the United Remote FrontEnd Code Challenge.
+A ReactJS solution for the UR FrontEnd Code Challenge.
 
 ## Idea of the App
 
